@@ -3,6 +3,9 @@
 
 This project aims to develop an analysis tool for detecting and understanding Freezing of Gait (FoG) in individuals with Parkinson's Disease. FoG is a common and debilitating symptom characterized by a sudden and brief inability to initiate or continue movement. Early detection and effective analysis of FoG episodes can contribute to improved patient care and management.
 
+# Dataset
+
+https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data
 
 
 ## Installation
