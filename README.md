@@ -12,7 +12,8 @@ https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/da
 
 Step1: Clone the repository.
   ```
-  $ git clone https://github.com/SHUDDHASHIL21/Automatic-Sign-Face-Detection.git
+  $ git clone https://github.com/rounakbhowmick123/ParkinsonMotion-Sentinel
+.git
   ```
 Step2: Open the Parkinson's FOG Project.ipynb file in your local python IDE
 
